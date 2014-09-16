@@ -1,0 +1,711 @@
+Starting
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.16318,
+          33.420352
+        ]
+      },
+      "properties": {
+        "city": "PHOENIX",
+        "state": "AZ",
+        "freq_mhz": "5610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.52639,
+          39.72722
+        ]
+      },
+      "properties": {
+        "city": "DENVER",
+        "state": "CO",
+        "freq_mhz": "5615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.34382,
+          26.142601
+        ]
+      },
+      "properties": {
+        "city": "FT LAUDERDALE",
+        "state": "FL",
+        "freq_mhz": "5645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.491076,
+          25.757083
+        ]
+      },
+      "properties": {
+        "city": "MIAMI",
+        "state": "FL",
+        "freq_mhz": "5605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.324674,
+          28.343125
+        ]
+      },
+      "properties": {
+        "city": "ORLANDO",
+        "state": "FL",
+        "freq_mhz": "5640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.51755,
+          27.85867
+        ]
+      },
+      "properties": {
+        "city": "TAMPA",
+        "state": "FL",
+        "freq_mhz": "5620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.272931,
+          26.687812
+        ]
+      },
+      "properties": {
+        "city": "WEST PALM BEACH",
+        "state": "FL",
+        "freq_mhz": "5615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.262233,
+          33.646193
+        ]
+      },
+      "properties": {
+        "city": "ATLANTA",
+        "state": "GA",
+        "freq_mhz": "5615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.857628,
+          41.796589
+        ]
+      },
+      "properties": {
+        "city": "MCCOOK (ORD)",
+        "state": "IL",
+        "freq_mhz": "5615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7294,
+          41.6514
+        ]
+      },
+      "properties": {
+        "city": "CRESTWOOD (MDW)",
+        "state": "IL",
+        "freq_mhz": "5645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.435286,
+          39.636556
+        ]
+      },
+      "properties": {
+        "city": "INDIANAPOLIS",
+        "state": "IN",
+        "freq_mhz": "5605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.437228,
+          37.506844
+        ]
+      },
+      "properties": {
+        "city": "WICHITA",
+        "state": "KS",
+        "freq_mhz": "5603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58028,
+          38.89778
+        ]
+      },
+      "properties": {
+        "city": "COVINGTON-CINCINNATI",
+        "state": "KY",
+        "freq_mhz": "5610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.610641,
+          38.04581
+        ]
+      },
+      "properties": {
+        "city": "LOUISVILLE",
+        "state": "KY",
+        "freq_mhz": "5646"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.402919,
+          30.021389
+        ]
+      },
+      "properties": {
+        "city": "NEW ORLEANS",
+        "state": "LA",
+        "freq_mhz": "5645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.93389,
+          42.15806
+        ]
+      },
+      "properties": {
+        "city": "BOSTON",
+        "state": "MA",
+        "freq_mhz": "5610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.845,
+          38.69528
+        ]
+      },
+      "properties": {
+        "city": "BRANDYWINE",
+        "state": "MD",
+        "freq_mhz": "5635"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.63,
+          39.09056
+        ]
+      },
+      "properties": {
+        "city": "BENFIELD (BWI)",
+        "state": "MD",
+        "freq_mhz": "5645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.961837,
+          38.758853
+        ]
+      },
+      "properties": {
+        "city": "CLINTON (DCA)",
+        "state": "MD",
+        "freq_mhz": "5615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.515,
+          42.11111
+        ]
+      },
+      "properties": {
+        "city": "DETROIT",
+        "state": "MI",
+        "freq_mhz": "5615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.932257,
+          44.870902
+        ]
+      },
+      "properties": {
+        "city": "MINNEAPOLIS",
+        "state": "MN",
+        "freq_mhz": "5610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.74167,
+          39.49861
+        ]
+      },
+      "properties": {
+        "city": "KANSAS CITY",
+        "state": "MO",
+        "freq_mhz": "5605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.488558,
+          38.804691
+        ]
+      },
+      "properties": {
+        "city": "ST LOUIS",
+        "state": "MO",
+        "freq_mhz": "5610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.992727,
+          34.896044
+        ]
+      },
+      "properties": {
+        "city": "DESOTO COUNTY (MEM)",
+        "state": "MS",
+        "freq_mhz": "5610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.885006,
+          35.337269
+        ]
+      },
+      "properties": {
+        "city": "CHARLOTTE",
+        "state": "NC",
+        "freq_mhz": "5608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.697942,
+          36.001401
+        ]
+      },
+      "properties": {
+        "city": "RALEIGH DURHAM",
+        "state": "NC",
+        "freq_mhz": "5647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.270164,
+          40.593397
+        ]
+      },
+      "properties": {
+        "city": "WOODBRIDGE (EWR)",
+        "state": "NJ",
+        "freq_mhz": "5620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.069979,
+          39.950061
+        ]
+      },
+      "properties": {
+        "city": "PENNSAUKEN (PHL)",
+        "state": "NJ",
+        "freq_mhz": "5610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.007,
+          36.144
+        ]
+      },
+      "properties": {
+        "city": "LAS VEGAS",
+        "state": "NV",
+        "freq_mhz": "5645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.880303,
+          40.588633
+        ]
+      },
+      "properties": {
+        "city": "FLOYD BENNETT FIELD",
+        "state": "NY",
+        "freq_mhz": "5647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.123077,
+          40.021376
+        ]
+      },
+      "properties": {
+        "city": "DAYTON",
+        "state": "OH",
+        "freq_mhz": "5640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.007419,
+          41.289372
+        ]
+      },
+      "properties": {
+        "city": "CLEVELAND",
+        "state": "OH",
+        "freq_mhz": "5645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.71556,
+          40.00611
+        ]
+      },
+      "properties": {
+        "city": "COLUMBUS",
+        "state": "OH",
+        "freq_mhz": "5605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.625,
+          35.405
+        ]
+      },
+      "properties": {
+        "city": "AERONAUTICAL CENTER",
+        "state": "OK",
+        "freq_mhz": "5610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.629,
+          35.393
+        ]
+      },
+      "properties": {
+        "city": "AERONAUTICAL CENTER",
+        "state": "OK",
+        "freq_mhz": "5620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.826313,
+          36.070184
+        ]
+      },
+      "properties": {
+        "city": "TULSA",
+        "state": "OK",
+        "freq_mhz": "5605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.51,
+          35.27611
+        ]
+      },
+      "properties": {
+        "city": "OKLAHOMA CITY",
+        "state": "OK",
+        "freq_mhz": "5603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.486586,
+          40.501066
+        ]
+      },
+      "properties": {
+        "city": "HANOVER (PIT)",
+        "state": "PA",
+        "freq_mhz": "5615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.17891,
+          18.47394
+        ]
+      },
+      "properties": {
+        "city": "SAN JUAN",
+        "state": "PR",
+        "freq_mhz": "5610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.661691,
+          35.979079
+        ]
+      },
+      "properties": {
+        "city": "NASHVILLE",
+        "state": "TN",
+        "freq_mhz": "5605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5675,
+          30.06472
+        ]
+      },
+      "properties": {
+        "city": "HOUSTON INTERCONTL (IAH)",
+        "state": "TX",
+        "freq_mhz": "5605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.241692,
+          29.515852
+        ]
+      },
+      "properties": {
+        "city": "PEARLAND (HOU)",
+        "state": "TX",
+        "freq_mhz": "5645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.968473,
+          32.92494
+        ]
+      },
+      "properties": {
+        "city": "DALLAS LOVE FIELD",
+        "state": "TX",
+        "freq_mhz": "5608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.915554,
+          33.064286
+        ]
+      },
+      "properties": {
+        "city": "LEWISVILLE (DFW)",
+        "state": "TX",
+        "freq_mhz": "5640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929722,
+          40.967222
+        ]
+      },
+      "properties": {
+        "city": "SALT LAKE CITY",
+        "state": "UT",
+        "freq_mhz": "5610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.529224,
+          39.083667
+        ]
+      },
+      "properties": {
+        "city": "LEESBURG (IAD)",
+        "state": "VA",
+        "freq_mhz": "5605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.04611,
+          42.81944
+        ]
+      },
+      "properties": {
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "freq_mhz": "5603"
+      }
+    }
+  ]
+}
